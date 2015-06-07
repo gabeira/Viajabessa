@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Viajabessa</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="carregando">Loading Travel Pack...</string>
+    <string name="comprar">Buy Travel Pack</string>
+    <string name="compra_efetuada">Purchase request Successfully! Price </string>
+
+</resources>
